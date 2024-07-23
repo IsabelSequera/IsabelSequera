@@ -4,21 +4,16 @@
 
 
 
-🔭 I'm passionate about technology. 
+🔭 Soy apasionada por la tecnologia
 
-🌟 I love React!!!!
+🌟 Amo React!!!!
 
-👯 𝙸'𝚖𝚘 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 𝙰𝚗𝚍𝚛𝚘𝚒𝚍, Diseño o DevOps.
+🚀 Disfruto mucho aprender de la tecnologia y la ciencia, tengo mucho interés por la programación. Soy Front-end y tengo habilidades y conocimientos en React, TypeScript y Next.js.
 
-💬 ¡Nos vemos pronto ! Estamos aquí para ayudarte.
-
-😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜𝚒𝚊𝚍𝚘: 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.
-
-⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜: 𝙸𝚝 𝙴𝚗𝚍𝚜.
+💡 Mis aspiraciones estan dirigidas a aprender mas, participar en proyectos innovadores que transformen el mundo🌍
 
 
-
-## What technologies do I use?🚀
+## |Que tecnologias uso?🚀
 
 React 😄
 TypeScript
@@ -30,9 +25,9 @@ GIT
 
 ## Datos de contacto
 
-isaftx1@gmail.com
+Email: isaftx1@gmail.com
 
-Sara Sequera linlkedin
+Phone: +58 4128158054 
 
-04128158054
-h
+Linkedin: https://www.linkedin.com/in/sara-sequera-8136472b6/
+
