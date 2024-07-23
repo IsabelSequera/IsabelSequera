@@ -16,11 +16,17 @@
 ## |Que tecnologias uso?🚀
 
 React 😄
+
 TypeScript
+
 Node Js
+
 Express 
+
 Javascript
+
 PostgreSQL
+
 GIT
 
 ## Datos de contacto
